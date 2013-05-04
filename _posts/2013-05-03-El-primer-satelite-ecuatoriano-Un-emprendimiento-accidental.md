@@ -1,6 +1,6 @@
 ---
 layout: blog_entrada
-title: El primer satélite ecuatoriano\:¿Un emprendimiento accidental?
+title: El primer satélite ecuatoriano:¿Un emprendimiento accidental?
 ---
 El primer satélite ecuatoriano: ¿Un emprendimiento accidental?
 ============================================================================
