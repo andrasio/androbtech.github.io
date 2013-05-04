@@ -10,7 +10,7 @@ un caos y una falta de respeto a nosotros en la industria de tecnología. Por es
 
 ## ¿Cómo surgió el CubeSat? ##
 
-Los profesores <a href="http://en.wikipedia.org/wiki/Bob_Twiggs" target="_blank">Bob Twiggs, Ph.D.</a>profesor emeritus de Stanford University junto con <a href="http://en.wikipedia.org/wiki/Jordi_Puig-Suari" target="_blank">Jordi Puig-Suari, Ph.D.</a> profesor y desarrollador en Aeroespacio del California Polytechnic State University (CalPoly) tuvieron la meta de permitir a estudiantes en post-grado tener la capacidad de diseñar, construir, probar y operar en el espacio una nave espacial con la capacidad similar a la primera nave espacial Sputnik.
+Los científicos <a href="http://en.wikipedia.org/wiki/Bob_Twiggs" target="_blank">Bob Twiggs, Ph.D.</a> profesor emeritus de Stanford University junto con <a href="http://en.wikipedia.org/wiki/Jordi_Puig-Suari" target="_blank">Jordi Puig-Suari, Ph.D.</a> profesor y desarrollador en Aeroespacio del California Polytechnic State University (CalPoly) tuvieron la meta de permitir a estudiantes en post-grado tener la capacidad de diseñar, construir, probar y operar en el espacio una nave espacial con la capacidad similar a la primera nave espacial Sputnik.
 
 Los profesores decidieron el tamaño a un cubo de 10-centímetros debido a que era suficiente tamaño para acomodar una carga básica de comunicaciones, paneles solares, y batería.
 
