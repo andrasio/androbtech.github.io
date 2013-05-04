@@ -1,8 +1,8 @@
 ---
 layout: blog_entrada
-title: El primer satélite ecuatoriano ¿Un emprendimiento accidental?
+title: El primer satélite ecuatoriano\:¿Un emprendimiento accidental?
 ---
-El primer satélite ecuatoriano ¿Un emprendimiento accidental?
+El primer satélite ecuatoriano: ¿Un emprendimiento accidental?
 ============================================================================
 Todos vieron el lanzamiento de Pegaso NEE-01; un CubeSat de 1U "diseñado y construído" en Ecuador. El nanosatélite
 fue desplegado junto con otros dos CubeSats; el CubeBug "Capitán Beto" de 2U de Argentina y el Turksat-3USAT de 3U de Turquía, éste siendo construído en una universidad. El hecho que el gobierno se involucró haciendo lo que denominaré como un "show" creó
