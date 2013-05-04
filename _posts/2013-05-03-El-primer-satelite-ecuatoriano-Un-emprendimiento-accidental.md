@@ -2,5 +2,88 @@
 layout: blog_entrada
 title: El primer satélite ecuatoriano ¿Un emprendimiento accidental?
 ---
-¿Cómo surgió el CubeSat?
-========================
+El primer satélite ecuatoriano ¿Un emprendimiento accidental?
+============================================================================
+Todos vieron el lanzamiento de Pegaso NEE-01; un CubeSat de 1U "diseñado y construído" en Ecuador. El nanosatélite
+fue desplegado junto con otros dos CubeSats; el CubeBug "Capitán Beto" de 2U de Argentina y el Turksat-3USAT de 3U de Turquía, éste siendo construído en una universidad. El hecho que el gobierno se involucró haciendo lo que denominaré como un "show" creó
+un caos y una falta de respeto a nosotros en la industria de tecnología. Por esta razón excluiré el "show" y comentaré sobre el satélite desde el contexto de tecnología y emprendimiento.
+
+## ¿Cómo surgió el CubeSat? ##
+[Bob Twiggs, Ph.D.](http://en.wikipedia.org/wiki/Bob_Twiggs) profesor emeritus de Stanford University junto con [Jordi Puig-Suari, Ph.D.](http://en.wikipedia.org/wiki/Jordi_Puig-Suari) profesor y desarrollador en Aeroespacio del California Polytechnic State University (CalPoly) tuvieron la meta de permitir a estudiantes en post-grado tener la capacidad 
+de diseñar, construir, probar y operar en el espacio una nave espacial con la capacidad similar a la primera nave espacial Sputnik.
+
+Los profesores decidieron el tamaño a un cubo de 10-centímetros debido a que era suficiente tamaño para acomodar una carga básica de comunicaciones, paneles solares, y batería.
+
+Eventualmente el diseño del CubeSat evolucionó a un estándard industrial donde universidades, empresas, y agencias del gobierno lo adaptaron. Los primeros CubeSats fueron desplegados en Junio del año 2003 en orbita-baja terrestre. Registros desde la fecha Agosto 2012 indica que aproximadamente 75 CubeSats han sido desplegados exitosamente en órbita.
+
+Como el motivo del proyecto fue venir con una plataforma educativa, nunca imaginaron que surgiría interés por parte de la NRO (National Reconnaissance Office), el Departamento de Defensa, la NSF (National Science Foundation), y NASA.
+
+Los costos hace 10 años para un lanzamiento de un CubeSat de una unidad era $40.000 USD y $120.000 USD para un CubeSat de tres unidades. Los lanzamientos desde los Estados Unidos son un poco más caros ya que tienen mejor garantía de calidad, pruebas, y habilitación del sistema. Una década después los costos se han duplicado por lo que podemos asumir que un lanzamiento para un CubeSat de una unidad como aplica a Pegaso NEE-01 saldría aproximadamente en $80.000 USD. 
+
+Para más información sobre la iniciativa de CubeSats [puedes](http://www.nasa.gov/offices/oce/appel/ask/issues/38/38s_next.html) [leer más](http://www.nasa.gov/multimedia/podcasting/nasaedge/NE00031413_54_CubeSat.html) e incluso una entrevista al propio [Dr. Jordi Puig-Suari](http://www.spacenews.com/article/jordi-puig-suari-co-founder-tyvak-nano-satellite-systems-llc#.UYRjY79pck8)
+
+## Ronnie Nader, Space Apps Ecuador & Drabconf, Andrab & Open NASA ##
+Me parece que Ronnie quiere cumplir sus sueños y quiere mandarle el mensaje al país de lo que somos capaces de hacer. El trabajo que ha hecho la Agencia Espacial Civil Ecuatoriana (EXA) es extraordinario sin duda alguna. 
+
+Cuando el gobierno ejecutó el "show" quise ayudar escribiendo sobre el tema únicamente enfocado en el contexto de tecnología. Después de notificarlo a Ronnie lamentablemente se me acusó de algo que no es verdad: 
+<blockquote class="twitter-tweet" data-conversation="none"><p>@<a href="https://twitter.com/androbtech">androbtech</a> @<a href="https://twitter.com/falvaradoe">falvaradoe</a> Sabemos muy bien que tu trabajas con NASA y estuviste minimizando a <a href="https://twitter.com/search/%23PEGASO">#PEGASO</a> 2 semanas antes del lanzamiento en FB</p>&mdash; Ronnie Nader (@Ronnie_Nader) <a href="https://twitter.com/Ronnie_Nader/status/329451733782761474">May 1, 2013</a></blockquote>
+
+Cuestionar sus credenciales no es justificación para desacreditar el trabajo que ha hecho tampoco. Públicamente puedes ver su [biografía](http://www.exa.ec/ronnie-nader.htm) directo de la página web del EXA. Se pueden ver [trabajos](http://www.exa.ec/trabajos/) públicos de EXA y me llamó la atención el que presentaron con [HERMES](http://www.exa.ec/trabajos/Sat_1445_PROJECT%20HERMES-EN.pdf) en el [California Polytechnic Institute - 2009 CDW 23rd Annual AIAA/USU Conference on Small Satellites](http://www.exa.ec/trabajos/Summer%202009%20Workshop.pdf) que [son los workshops](http://www.cubesat.org/index.php/workshops) anuales hechos por CalPoly -la institución donde el Dr. Jordi Puig-Suari labora- para permitir a desarrolladores de CubeSats de compartir ideas y experiencias personales desarrollando picosatélites.
+
+Personalmente estoy afectado por semejante acusación. El día 9 de Abril, 2013 me encontraba almorzando en el Hilton Colon ciudad de Quito con el fundador [Roy Singham](http://en.wikipedia.org/wiki/Neville_Roy_Singham) de la empresa [ThoughtWorks](http://en.wikipedia.org/wiki/ThoughtWorks); un ser humano digno de admirar que con gusto patrocinó el [Space Apps Ecuador & Drabconf](http://goo.gl/jguvl) -eventos organizados por mi empresa Andrab S.A. junto con Open NASA- con fines de difundir innovación y colaboración al país.
+
+[Esos eventos](http://spaceappsecuador.com) fueron un éxito ya que hasta [participó un chico estudiante](http://expreso.ec/expreso/plantillas/nota.aspx?idart=4355520&tipo=2) de colegio de 14 años de edad. El International Space Apps Challenge, la sede principal incluso notó nuestra presencia en las redes sociales dedicándonos un tweet muy agradable:
+
+<blockquote class="twitter-tweet"><p>The excitement at the Guayaquil, Ecuador <a href="https://twitter.com/search/%23SpaceApps">#SpaceApps</a> event is as palpable as a satellite traveling at 17,000 miles per hour! @<a href="https://twitter.com/spaceapps_ecu">spaceapps_ecu</a></p>&mdash; Space Apps Challenge (@spaceapps) <a href="https://twitter.com/spaceapps/status/325610557392691202">April 20, 2013</a></blockquote>
+
+¿Por qué estoy hablando de todo ésto? Porque en el momento que me servía el almuerzo, Ronnie Nader estuvo a lado mío sirviéndose el suyo. Él apenas había regresado de Holanda celebrando las aprobaciones y el visto bueno para [poder lanzar el PEGASO NE-001 al espacio](http://www.isispace.nl/cms/index.php/news/latest-news/110-isl-completes-another-successful-launch-campaign)! Expresé mi opinión ante él sobre su trabajo, y lo felicité por todo lo que está haciendo por el país. Me respondió con una palabra -gracias- y cada cuál seguimos por nuestro lado. No me preguntó mi nombre, con lo cual no tengo problema tampoco.
+
+La semana antes del evento [Space Apps Ecuador & Drabconf](http://spaceappsecuador.com) le escribí un e-mail personal a Ronnie invitándolo para que nos acompañe. El evento fue único por que también unifiqué todas las comunidades de la industria tecnológica del país. Me hubiera encantado la presencia de Ronnie por que de todos los desafíos que podíamos escoger para desarrollo, [dos se trataban](http://spaceappschallenge.org/challenge/cubesats-for-asteroid-exploration/) [de cubesats](http://spaceappschallenge.org/challenge/hitch-a-ride-to-mars/). Si entras a esos enlaces también está toda la información para el desarrollo de CubeSats.
+
+Ronnie me indicó que estaría muy ocupado por el lanzamiento del Pegaso NEE-01 y expresó su agradecimiento por la invitación. Pero la acusación que acaba de hacer no tiene sentido en lo absoluto. 
+
+También le abrí las puertas al [Instituto Espacial Ecuatoriano](http://www.elcomercio.com/tecnologia/ciencia/Instituto-Espacial-Ecuatoriano-mediante-creacion-decreto_presidencial_0_742125876.html). Mi intención era unificar todas las comunidades de tecnología e involucrar también gente/comunidades que hacen trabajo para el desarrollo espacial. Lamentablemente después de que me confirmaron presencia no volví a escuchar de ellos tampoco.
+
+No logré tampoco comunicarme con [Edwin Gómez](http://www.elnorte.ec/component/content/article.html?id=18184). Me hubiera encantado su presencia y ser parte de los ~20 conferencistas que vinieron para Drabconf. Para los que no conocen a Edwin, el es un ecuatoriano que fue seleccionado y calificado para ser considerado en la selección final de los candidatos a Astronautas de la NASA y se encuentra estudiando Ingeniería Aeroespacial en la universidad Massachusetts Institute of Technology (MIT); un orgullo ecuatoriano también.
+
+## Tecnología Ecuatoriana ##
+Lo más importante al hablar de tecnología es dejar clara la definición. EXA indicó que la tecnología fue 100% hecha en Ecuador sin atribución alguna de los trabajos que se han derivado (adaptado) siendo el más importante las especificaciones del Open Standard del CubeSat hecho por los Ph.D.s mencionados al inicio de este post. No tiene nada de malo derivar trabajo de otros científicos pero tampoco es apropiado no hacer las atribuciones respectivas; particularmente si aceptas que el gobierno exponga tu trabajo y envíe el mensaje al mundo de que en Ecuador somos pioneros con propia tecnología; que no es el caso y algo muy serio.
+
+Si estás interesado en construir tu CubeSat (especialmente si eres un estudiante/profesor en una universidad) puedes hacerlo descargando los documentos directamente del California Polythenic State University [aquí](http://cubesat.atl.calpoly.edu/index.php/documents/developers). La pregunta que uno debe hacerse es ¿Cuál es el nivel de complejidad de hacerlo? y ¿Qué es lo difícil? El stándard abierto del CubeSat fue hecho para hacerlo de forma fácil, en primer lugar. Se han hecho proyectos/prototipos [por un niño de ocho años de edad](http://www.youtube.com/watch?v=l9Zl1x8rBAg).
+
+Existen manuales, libros, y mucha más información en internet para construir tu CubeSat. De hecho, la empresa Innovative Solutions In Space (ISIS) que fueron los que ejecutaron la campaña de lanzamiento de la que EXA es cliente (para lanzar PEGASO NEE-01) dispone de todas las piezas necesarias para construir uno. La tienda de esta empresa se llama [cubesatshop.com](http://cubesatshop.com).
+
+La complejidad también surge cuando quieres lanzar el CubeSat al espacio. Cabe recalcar que desde inicio a fin de todo el proceso para venir con un CubeSat y lanzarlo al espacio igual requiere de mucha perserverancia y amor por el área. Hace nueve meses un artista surcoreano desarrolló también un CubeSat (construído por el) que [también sería lanzado al espacio](http://www.fayerwayer.com/2012/07/artista-surcoreano-lanzara-al-espacio-su-propio-satelite-casero/).
+
+El lector que aprecia el trabajo de EXA por lo menos debe de razonar un poco y aceptar la realidad. El problema es que todos han sido bloqueados por el "show" y piensan más en el orgullo ecuatoriano (que lo és) sin tener una sola duda de qué especie de tecnología se ha creado. ¿Qué creen que los círculos científicos opinan -si es que se enteran- del show que se ha hecho? Se van a reir. Como ecuatorianos, ¿realmente queremos ser vistos de esta manera? Por supuesto que no!
+
+El error más grave de EXA fue indicar que es tecnología 100% ecuatoriana. Semejante declaración ya es un error por definición. Cuando se quiere hablar de tecnología se tiene que definir bien qué quiere decir "tecnología". A base de lo que he investigado del trabajo de EXA diera la impresión que importó toda la materia prima para construir el CubeSat. Si es así, también cometieron el error que muchos emprendimientos tecnológicos cometen y tenemos una frase para eso "Don't reinvent the wheel".
+
+Para avanzar en nuestro mundo tecnológico, "reinventing the wheel" solo sería útil si se trata de algo crucial para construir nuevas cosas. Hubiera tenido más mérito si EXA hubiera venido con un estándard completamente nuevo, mejorado, con las mismas medidas para que el satélite pueda ser desplegado en los "CubeSat deployers", pero eso no fue lo que ocurrió aquí.
+
+"Dame un ejemplo de una tecnología 100% propia": El ejemplo perfecto y con derecho de indicar que es 100% tecnología de ellos es La Agencia de Aeroespacio y Exploración de Japón (JAXA). Siguieron el concepto de "Open" -Abierto- porque estudiaron el estándard del CubeSat y desarrollaron un sistema. La innovación por parte de los japoneses fue volar CubeSats desde la Estación Internacional Espacial. ¿Por qué califica como una innovación? Fácil: Para lanzar un satélite al espacio desde la Tierra se necesitan vehículos dedicados para propulsarlos a la órbita óptima. Los japoneses desarrollaron un [pequeño desplegador de satélites](http://iss.jaxa.jp/en/kiboexp/news/small_satellites_deployment_fr.html) que fue instalado en la [Estación Internacional Espacial](http://www.nasa.gov/mission_pages/station/main/index.html) lo cual causa una reducción considerable de costos para poner los satélites en su órbita óptima.
+
+El módulo experimental japonés (JEM) pequeño desplegador de satélites (J-SSOD) es capaz de lanzar pequeños satélites de la estación, utilizando el Sistema de Manipulación Remota JEM, que es como un pequeño brazo robótico. El sistema remoto robótico recibe la plataforma de experimentos multi-propósito donde el J-SSOD se encuentra instalado y cargado con los satélites pequeños. En el desplegador se encuentran dos rampas donde cada una puede tener hasta tres satélites. Mientras se encuentra unido al "brazo robótico" la plataforma se libera de la bolsa de aire del JEM, y se coloca lejos de la estación para el despliegue seguro de los satélites.
+
+Se han hechos pruebas y se han desplegado cinco CubeSats exitosamente en Octubre 4, 2012. Todos los CubeSats a excepción de uno fueron desarrollados por estudiantes. Para el interesado, todos los detalles y ahorros de costos tanto como el experimento los puedes [leer aquí](http://www.nasa.gov/mission_pages/station/research/news/j_ssod.html).
+
+##¿Qué hizo EXA diferente y por qué denomino ésto como un emprendimiento accidental?##
+Indican que el CubeSat fue completamente diseñado y construído en Ecuador. Por lo tanto, se asume que no hay dependencias de tiendas que venden las piezas hechas para "construirlas en casa". 
+
+Esto significa que EXA tiene su propia "fábrica" de CubeSats. La intención con PEGASO NEE-01 fue -según EXA y no quiero equivocarme- despertar al país y demostrar lo que nosotros los ecuatorianos somos capaces de hacer. Recibieron el apoyo
+finalmente de parte del gobierno y cumplieron con una de sus metas que por el momento sería una especie de participación en el espacio. A base de lo que he visto públicamente, EXA también empezó a comentar que fueron contactados por empresas del exterior ya que se podría convertir en un proveedor de CubeSats.
+
+Ese es el emprendimiento accidental! Tengo la impresión que lo único que querían era desarrollar/fabricar su propio CubeSat en Ecuador (y el orgullo/honor de que se haya hecho así) y desplegarlo al espacio. Estuvieron tan enfocados con esa meta que no se dieron cuenta del potencial que tiene la "fábrica accidental" y la oportunidad de monetizarlo para vender piezas y/o CubeSats completos a latinoamérica.
+
+##¿Cuál es la salsa secreta para realmente innovar y crear nueva tecnología en Ecuador? (solución)##
+Claramente EXA no ha trabajo con la comunidad. Se están perdiendo lo que puede ayudarles a alcanzar
+sus metas mucho más rápido. ¿Cuál comunidad? la misma de la que deriva el estándard abierto del CubeSat, la comunidad
+de Software Libre. Si no la conoces muy bien te recomiendo un buen resumen (y lo beneficioso que puede ser para Ecuador) perfectamente dicho por [Rafael Bonifaz](http://www.youtube.com/watch?v=IvwbueXYXhI&t=12m49s) -conferencista invitado para el Drabconf- Rafael Bonifaz fue un factor importante para que la [reunión entre Richard Stallman y el presidente Rafael Correa haya ocurrido](http://rafael.bonifaz.ec/blog/2008/12/historia-sobre-la-reunion-de-stallman-y-correa/). Gracias a el también existe una política de gobierno que el sector público tiene que hacer uso de Software Libre.
+
+Una de las misiones con PEGASO NEE-01 como indica la gente de EXA es la educación. Me parece excelente que chicos de escuela (2do grado en adelante) logren tener la oportunidad de ver imágenes desde el espacio pero esto solo cumple generar un deseo e inspiración para chicos muy jóvenes de poder decir "Quiero ser un astronauta" y más fé en poder lograrlo.
+
+La falla está (y no se ve en lo planes) en la omisión del área donde realmente puede surgir la innovación y crecimiento tecnológico en el país. Las áreas son las universidades, los estudiantes en las universidades, y la comunidad de Software Libre.
+
+¿Se imaginan que en este momento hayan estudiantes universitarios construyendo YA CubeSats? ¿se imaginan qué sucedería si EXA, así como otras organizaciones, publicara con licencia abierta las especificaciones del CubeSat? ¿lo que los estudiantes universitarios podrían hacer? Las posibilidades son abundantes. Imaginen aún el resultado de lo que sería si el área académica (Ph.Ds en diversas áreas en buenas universidades como la ESPOL por ejemplo) comparten todos los resultados de análisis e investigación sobre nanosatélites.
+
+EXA siendo una empresa privada con fines de que tengamos un mejor Ecuador tiene que participar en este mundo. Quizá le ocurra lo que le pasó a la gente de empresas que apoyan el Software Libre como GitHub, Inc. y hasta puedan crear un mercado de la nada.
