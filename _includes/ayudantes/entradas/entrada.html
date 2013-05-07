@@ -1,0 +1,15 @@
+<article id="entrada">
+  <h1>{{ entrada.title }}</h1>
+  {% assign fecha = entrada.date %}
+  {% include ayudantes/transformadores/traducir_fecha.html %}
+  
+  <a href="https://twitter.com/share" class="twitter-share-button" data-via="androbtech" data-lang="es" data-hashtags="despiertaecuador">Twittear</a>
+  <div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div><br />
+  <em>Escrito por androbtech en <a href="{{ entrada.url }}" rel="bookmark" link="Link Permanente a {{ entrada.title }}">{{fecha}}</a>. Archivado en: {{ entrada.tags | array_to_sentence_string }} </em>
+  <hr />
+	
+  {% assign cuerpo = entrada.content %}
+  {{ cuerpo }}
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+</article>

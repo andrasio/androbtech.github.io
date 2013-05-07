@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{% if page.title %} {{ page.title }} | {% endif %}{{ site.titulo }}</title>
+    
+    <link rel="stylesheet" href="http://blog.andresrobalino.com/stylesheets/styles.css">
+    <link rel="stylesheet" href="http://blog.andresrobalino.com/stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div id="fb-root"></div>
+    <script>
+      window.fbAsyncInit = function() {
+        
+        FB.init({
+          appId      : '524819307574555',
+          status     : true,
+          xfbml      : true
+        });
+      };
+
+     (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=524819307574555";
+        fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <div class="wrapper">
+      {% include ayudantes/pagina/cabecera.html %}
+      <section>
+        <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        {{content}}
+      </section>
+    </div>
+    <script src="http://blog.andresrobalino.com/javascripts/scale.fix.js"></script>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-40560860-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
+

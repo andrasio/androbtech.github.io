@@ -1,0 +1,5 @@
+{% capture fecha %}
+  {{ fecha | date: "%B" | replace: 'January', 'Enero' | replace: 'February', 'Febrero' | replace: 'March', 'Marzo' | replace: 'April', 'Abril' | replace: 'May', 'Mayo' | replace: 'June', 'Junio' | replace: 'July', 'Julio' | replace: 'August', 'Agosto' | replace: 'September', 'Septiembre' | replace: 'October', 'Octubre' | replace: 'November', 'Noviembre' | replace: 'December', 'Diciembre' }}
+  {{ fecha | date: "%e" }},
+  {{ fecha | date: "%Y"}}
+{% endcapture %}
