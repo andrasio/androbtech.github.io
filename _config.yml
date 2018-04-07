@@ -5,7 +5,7 @@ titulo: Andrés N. Robalino
 
 safe: true
 lsi: false
-pygments: true
+rouge: true
 server: false
 auto: false
 watch: false
